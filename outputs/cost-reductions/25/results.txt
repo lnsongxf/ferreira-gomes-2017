@@ -1,0 +1,40 @@
+Health Insurance
+% Uninsured            	     0.102297234002872
+% Medicare             	     0.125538458377558
+% Medicaid             	     0.098414122087881
+% Private              	     0.673750261242773
+% EHI                  	     0.624941411970352
+% IHI                  	     0.048808849272421
+EHI take-up ratio      	     0.888976613417980
+Macroeconomic Variables
+Output                 	 45585.872060946217971
+Capital                	140066.060619710275205
+Consumption            	 18977.030705222412507
+Medical expenditures   	  5862.583435574558280
+Average work hours     	  2013.139426722534608
+Fiscal Revenues
+Income taxes           	  5028.131785505944208
+Consumption taxes      	  2897.062636026361815
+Social Security taxes  	  3453.088331961125732
+Medicare taxes         	   807.775345188435949
+Medicare premium       	   178.100870795287989
+Fiscal Outlays
+Government expenditures	  8555.555739284774972
+Debt service           	 19804.632517782614741
+Social Security benefit	  2017.625434329047266
+Medicare coverage      	   874.094699246856294
+Medicaid coverage      	   291.128756070794680
+Social insurance       	   418.340119649805843
+Prices
+Interest rate          	     0.038000247863804
+Wage rate              	    15.509440252135972
+EHI premium            	  3762.669527665539590
+Average IHI premium    	  5390.445285180506289
+Other
+Wage rate reduction    	     1.088057142889760
+Consumption tax rate   	     0.152661534938082
+Capital-output ratio   	     3.072576091830565
+Welfare                	  -267.490494596846929
+ 
+EHI expenditures       	  2185.037188207898453
+Demand for EHI         	     0.626589787213755
