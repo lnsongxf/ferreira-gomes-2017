@@ -1,5 +1,5 @@
 # Health Care Reform or More Affordable Health Care?
-This repository contains the files that can be used to replicate the results of [Ferreira and Gomes (2017)](https://www.sciencedirect.com/science/article/pii/S0165188917300635). These are the files used to implement and simulate the heterogeneous agents model described in the paper. The model was coded in Fortran 90. The table below presents a brief description of each file:
+This repository contains the files to replicate the results of [Ferreira and Gomes (2017)](https://www.sciencedirect.com/science/article/pii/S0165188917300635). These files were used to implement and simulate the heterogeneous agents model described in the paper. The model was coded in Fortran 90. The table below presents a brief description of each file:
 
 | File Name | Description |
 | ------------- | ------------- |
