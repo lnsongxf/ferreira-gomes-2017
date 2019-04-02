@@ -1,0 +1,212 @@
+===============================================================================
+Equilibrium Variables
+===============================================================================
+ 
+ KK	   135416.506611523     
+KK1	      135416.50
+KK0	      135416.51
+ 
+ LL	   1996.76315736950     
+LL1	        1996.76
+LL0	        1996.76
+ 
+ BB	   1524.48121381705     
+BB1	        1524.48
+BB0	        1524.48
+ 
+ pE	   4998.70764209952     
+pE1	        4998.71
+pE0	        4998.71
+ 
+ min(pI)	   1551.72145360061     
+min(pI1)	        1551.72
+min(pI0)	        1551.72
+ 
+ max(pI)	   16324.7068515243     
+max(pI1)	       16324.71
+max(pI0)	       16324.71
+ 
+ chi	   1.36466062183160     
+chi1	           1.36
+chi0	           1.36
+ 
+ tauC	  0.237026031781546     
+tauC1	         0.2370
+tauC0	         0.2370
+ 
+===============================================================================
+Factor Prices
+===============================================================================
+ 
+Real interest rate	         0.0399
+Real wage rate    	          14.91
+ 
+===============================================================================
+Wage Rate Reduction
+===============================================================================
+ 
+Real wage rate reduction	           1.36
+ 
+===============================================================================
+Health Insurance Premiums
+===============================================================================
+ 
+EHI premium        	        4998.71
+Minimum IHI premium	        1551.72
+Average IHI premium	        7164.40
+Maximum IHI premium	       16324.71
+ 
+===============================================================================
+Asset and Labor Markets
+===============================================================================
+ 
+Current assets               	      153862.74
+Next period's assets         	      158034.69
+Current capital              	      135416.51
+Next period's capital        	      139088.28
+Current government debt      	       18446.25
+Next period's government debt	       18946.41
+Labor time                   	        1996.76
+ 
+===============================================================================
+Consumption Goods Market
+===============================================================================
+ 
+Consumption                      	       16885.87
+Next period's capital            	      139088.28
+Total medical expenditures       	        7800.72
+Government expenditures          	        8413.34
+Real production                  	       44828.12
+Current capital less depreciation	      125761.31
+ 
+===============================================================================
+Medical Expenditures
+===============================================================================
+ 
+Total medical expenditures    	        7800.72
+Agents' medical expenditures  	        7429.76
+Medicare's administrative cost	          18.45
+EHI's administrative cost     	         337.78
+IHI's administrative cost     	          13.55
+IHI's fixed cost              	           1.18
+ 
+===============================================================================
+Government Budget
+===============================================================================
+ 
+Government expenditures      	        8413.34
+Gross current government debt	       19181.77
+Social Security benefit      	        1969.90
+Medicare's coverage expenses 	        1165.46
+Medicaid's coverage expenses 	         447.11
+Social insurance transfer    	         797.92
+Next period's government debt	       18946.41
+Consumption taxes            	        4002.39
+Taxes less consumption tax   	        8848.59
+Medicare's premium revenue   	         178.10
+ 
+===============================================================================
+Bequest Transfer
+===============================================================================
+ 
+Bequest transfer	        1524.48
+ 
+===============================================================================
+Health Insurance
+===============================================================================
+ 
+EHI's coverage expenses	        2814.79
+IHI's coverage expenses	         112.93
+ 
+Total population
+% of uninsured   	         0.1234
+% with Medicare  	         0.1255
+% with Medicaid  	         0.1089
+% with EHI       	         0.6049
+% with IHI       	         0.0372
+% with private HI	         0.6421
+ 
+Population younger than 65 
+% of uninsured   	         0.1411
+% with Medicaid  	         0.1246
+% with EHI       	         0.6917
+% with IHI       	         0.0426
+% with private HI	         0.7343
+ 
+EHI take-up ratio              	         0.8605
+Working hours with an EHI offer	        1790.79
+ 
+===============================================================================
+Parameters
+===============================================================================
+ 
+beta    	         0.9855
+tauC    	         0.2370
+tauSS   	         0.1240
+tauMC   	         0.0290
+xi      	         0.0750
+alpha   	         0.3358
+delta   	         0.0713
+varphi  	         0.0161
+eta     	           0.03
+KKp/KK-1	           0.03
+DDp/DD-1	           0.03
+yMA     	       13923.26
+yMN     	        8641.32
+ 
+===============================================================================
+Welfare Measures
+===============================================================================
+ 
+Average value function of newborns	        -383.78
+ 
+===============================================================================
+Choices
+===============================================================================
+ 
+Maximum asset choice of workers 	   286150142.62
+Maximum asset choice of retirees	   284432174.26
+ 
+Maximum labor time choice	        2016.00
+Minimum labor time choice	           0.00
+ 
+Minimum consumption choice of workers	        6784.00
+Minimum consumption choice of retirees	        6784.00
+ 
+===============================================================================
+Targets
+===============================================================================
+ 
+% of population older than 65	         0.1255
+Target                       	         0.1255
+Error                        	         0.0000
+ 
+Medical expenditures per capita	        7800.72
+Target                         	        7799.95
+Error                          	           0.77
+ 
+Capital-output ratio	           3.02
+Target              	           3.02
+Error               	           0.00
+ 
+Output per capita	       44828.12
+Target           	       44854.87
+Error            	          26.75
+ 
+% of uninsured	         0.1234
+Target        	         0.1234
+Error         	         0.0000
+ 
+===============================================================================
+Checks
+===============================================================================
+ 
+ Sum of agents distribution  	   1.00000007571074     
+ Sum of workers distribution 	  0.874461617333185     
+ Sum of retirees distribution	  0.125538458377559     
+ 
+Profit	           0.00
+ 
+LHS          	      172188.21
+RHS          	      172188.22
+Excess Demand	          -0.01
